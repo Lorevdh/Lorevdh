@@ -42,5 +42,4 @@ enough to watch a change go from idea to production.
 
 Open to feedback on my code. Happy to review yours.
 
-Reach me at **[lorethedev@gmail.com](mailto:lorethedev@gmail.com)** or
-[LinkedIn](https://www.linkedin.com/in/lore-v/).
+Reach me at **[lorethedev@gmail.com](mailto:lorethedev@gmail.com)**
